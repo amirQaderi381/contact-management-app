@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "fullname": "امیر قادری",
+      "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDHiJHyJ7y9lpOHQewoKqdq7LYZjSDgC6g5HnlqZW6fjiQeEaqAGq4Qe-CvXtbsCaFqg&usqp=CAU",
+      "phone_number": 9339020031,
+      "email": "amir@gmail.com",
+      "job": "web developer",
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "وحید",
+      "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ALYEbF90rY4v9jhk6bBQsIDWmW9XDDPY5w&usqp=CAU",
+      "phone_number": 933642552,
+      "email": "vahid@gmail.com",
+      "job": "engineer",
+      "group": "2",
+      "id": 4
+    },
+    {
+      "fullname": "حسن",
+      "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUs1dX87cmbXMGTXeSEC7gZkb_PKZYuOPVY0bwO0O6ZRP26b8GTDpL3aEzHtG4R8J025A&usqp=CAU",
+      "phone_number": 9255679887,
+      "email": "hassan@gmail.com",
+      "job": "engineer",
+      "group": "5",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "همکار"
+    },
+    {
+      "id": 2,
+      "name": "دوست"
+    },
+    {
+      "id": 3,
+      "name": "فامیل"
+    },
+    {
+      "id": 4,
+      "name": "سرویس"
+    },
+    {
+      "id": 5,
+      "name": "آشنا"
+    }
+  ]
+}
