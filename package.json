@@ -23,8 +23,8 @@
     "yup": "^1.0.0"
   },
   "scripts": {
-    "preDeploy" : "react-scripts build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "start": "concurrently \"react-scripts start\" \"cd server && npm start\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
